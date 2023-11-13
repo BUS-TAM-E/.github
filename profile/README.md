@@ -47,6 +47,19 @@
 
 ![image](https://github.com/BUS-TAM-E/.github/assets/84004751/c777f51b-57f0-45e5-85dd-fe1741b3d47b)
 
+## 5. 기술 스택 및 도구
+
+![image](https://github.com/BUS-TAM-E/.github/assets/84004751/894181fa-be81-4fca-965b-3cb90d6fa669)
+
+## 6. 시스템 아키텍처
+
+<img width="1373" alt="image" src="https://github.com/BUS-TAM-E/.github/assets/84004751/9d4d857b-3b61-4365-8553-f358d9bb0b15">
+
+## 7. 디자인 
+
+![image](https://github.com/BUS-TAM-E/.github/assets/84004751/8f41ba6b-e5d4-466c-a85d-02eb2da698e0)
+
+
 <br><br>
 
 ---
