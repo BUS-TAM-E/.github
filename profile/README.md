@@ -6,9 +6,13 @@
 
 <br>
 
-## 아이디어 배경 Background
+## 인트로 Intro
 
 ![image](https://github.com/BUS-TAM-E/.github/assets/84004751/29005801-c011-42ad-a350-c11efa320d96)
+
+<br>
+
+## 아이디어 배경 Background
 
 ### 💥 서울시 버스 민원 현황은 어떨까요?
 ![image](https://github.com/BUS-TAM-E/.github/assets/84004751/394384f1-9e60-4dfc-90f4-7e1e948ca929)
